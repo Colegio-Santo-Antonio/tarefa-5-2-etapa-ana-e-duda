@@ -10,7 +10,7 @@ else:
   pares.append(2*int(1)-10-1)
 soma = sum(pares)+sum (impares)
 if int(soma/10)** soma/10:
-  print ("cartão válido')
+  print ("Cartão válido")
 else:
-  print ("cartão inválido")
+  print ("Cartão inválido")
   
